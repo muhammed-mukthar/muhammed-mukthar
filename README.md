@@ -41,6 +41,7 @@
   <summary> ⚡ Most Used Languages</summary>
 <img align="left" alt="Mukthar's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammed-mukthar" />
 </details>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammed-mukthar&" alt="muhammed-mukthar" /></p>
 
 ### * Databases:
 
