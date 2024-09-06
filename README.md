@@ -9,6 +9,7 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=muhammed-mukthar&label=Profile%20views&color=0e75b6&style=plastic" alt="muhammed_mukthar" /> 
 </p>
+<figure><embed src="https://wakatime.com/share/@bb81e79e-a4a0-416e-8ae2-bf53a528071c/fc650598-280b-4cc4-b36d-c35d3e338e4a.svg"></embed></figure>
 
 ### * Languages
 
